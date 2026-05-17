@@ -1,0 +1,601 @@
+﻿city_id,city,country_id,last_update,Country
+1,A Coruña (La Coruña),87,2006-02-15 04:45:00,Spain
+2,Abha,82,2006-02-15 04:45:00,Saudi Arabia
+3,Abu Dhabi,101,2006-02-15 04:45:00,United Arab Emirates
+4,Acuña,60,2006-02-15 04:45:00,Mexico
+5,Adana,97,2006-02-15 04:45:00,Turkey
+6,Addis Abeba,31,2006-02-15 04:45:00,Ethiopia
+7,Aden,107,2006-02-15 04:45:00,Yemen
+8,Adoni,44,2006-02-15 04:45:00,India
+9,Ahmadnagar,44,2006-02-15 04:45:00,India
+10,Akishima,50,2006-02-15 04:45:00,Japan
+11,Akron,103,2006-02-15 04:45:00,United States
+12,al-Ayn,101,2006-02-15 04:45:00,United Arab Emirates
+13,al-Hawiya,82,2006-02-15 04:45:00,Saudi Arabia
+14,al-Manama,11,2006-02-15 04:45:00,Bahrain
+15,al-Qadarif,89,2006-02-15 04:45:00,Sudan
+16,al-Qatif,82,2006-02-15 04:45:00,Saudi Arabia
+17,Alessandria,49,2006-02-15 04:45:00,Italy
+18,Allappuzha (Alleppey),44,2006-02-15 04:45:00,India
+19,Allende,60,2006-02-15 04:45:00,Mexico
+20,Almirante Brown,6,2006-02-15 04:45:00,Argentina
+21,Alvorada,15,2006-02-15 04:45:00,Brazil
+22,Ambattur,44,2006-02-15 04:45:00,India
+23,Amersfoort,67,2006-02-15 04:45:00,Netherlands
+24,Amroha,44,2006-02-15 04:45:00,India
+25,Angra dos Reis,15,2006-02-15 04:45:00,Brazil
+26,Anápolis,15,2006-02-15 04:45:00,Brazil
+27,Antofagasta,22,2006-02-15 04:45:00,Chile
+28,Aparecida de Goiânia,15,2006-02-15 04:45:00,Brazil
+29,Apeldoorn,67,2006-02-15 04:45:00,Netherlands
+30,Araçatuba,15,2006-02-15 04:45:00,Brazil
+31,Arak,46,2006-02-15 04:45:00,Iran
+32,Arecibo,77,2006-02-15 04:45:00,Puerto Rico
+33,Arlington,103,2006-02-15 04:45:00,United States
+34,Ashdod,48,2006-02-15 04:45:00,Israel
+35,Ashgabat,98,2006-02-15 04:45:00,Turkmenistan
+36,Ashqelon,48,2006-02-15 04:45:00,Israel
+37,Asunción,73,2006-02-15 04:45:00,Paraguay
+38,Athenai,39,2006-02-15 04:45:00,Greece
+39,Atšinsk,80,2006-02-15 04:45:00,Russian Federation
+40,Atlixco,60,2006-02-15 04:45:00,Mexico
+41,Augusta-Richmond County,103,2006-02-15 04:45:00,United States
+42,Aurora,103,2006-02-15 04:45:00,United States
+43,Avellaneda,6,2006-02-15 04:45:00,Argentina
+44,Bagé,15,2006-02-15 04:45:00,Brazil
+45,Bahía Blanca,6,2006-02-15 04:45:00,Argentina
+46,Baicheng,23,2006-02-15 04:45:00,China
+47,Baiyin,23,2006-02-15 04:45:00,China
+48,Baku,10,2006-02-15 04:45:00,Azerbaijan
+49,Balašiha,80,2006-02-15 04:45:00,Russian Federation
+50,Balikesir,97,2006-02-15 04:45:00,Turkey
+51,Balurghat,44,2006-02-15 04:45:00,India
+52,Bamenda,19,2006-02-15 04:45:00,Cameroon
+53,Bandar Seri Begawan,16,2006-02-15 04:45:00,Brunei
+54,Banjul,37,2006-02-15 04:45:00,Gambia
+55,Barcelona,104,2006-02-15 04:45:00,Venezuela
+56,Basel,91,2006-02-15 04:45:00,Switzerland
+57,Bat Yam,48,2006-02-15 04:45:00,Israel
+58,Batman,97,2006-02-15 04:45:00,Turkey
+59,Batna,2,2006-02-15 04:45:00,Algeria
+60,Battambang,18,2006-02-15 04:45:00,Cambodia
+61,Baybay,75,2006-02-15 04:45:00,Philippines
+62,Bayugan,75,2006-02-15 04:45:00,Philippines
+63,Béchar,2,2006-02-15 04:45:00,Algeria
+64,Beira,63,2006-02-15 04:45:00,Mozambique
+65,Bellevue,103,2006-02-15 04:45:00,United States
+66,Belém,15,2006-02-15 04:45:00,Brazil
+67,Benguela,4,2006-02-15 04:45:00,Angola
+68,Beni-Mellal,62,2006-02-15 04:45:00,Morocco
+69,Benin City,69,2006-02-15 04:45:00,Nigeria
+70,Bergamo,49,2006-02-15 04:45:00,Italy
+71,Berhampore (Baharampur),44,2006-02-15 04:45:00,India
+72,Bern,91,2006-02-15 04:45:00,Switzerland
+73,Bhavnagar,44,2006-02-15 04:45:00,India
+74,Bhilwara,44,2006-02-15 04:45:00,India
+75,Bhimavaram,44,2006-02-15 04:45:00,India
+76,Bhopal,44,2006-02-15 04:45:00,India
+77,Bhusawal,44,2006-02-15 04:45:00,India
+78,Bijapur,44,2006-02-15 04:45:00,India
+79,Bilbays,29,2006-02-15 04:45:00,Egypt
+80,Binzhou,23,2006-02-15 04:45:00,China
+81,Birgunj,66,2006-02-15 04:45:00,Nepal
+82,Bislig,75,2006-02-15 04:45:00,Philippines
+83,Blumenau,15,2006-02-15 04:45:00,Brazil
+84,Boa Vista,15,2006-02-15 04:45:00,Brazil
+85,Boksburg,85,2006-02-15 04:45:00,South Africa
+86,Botosani,78,2006-02-15 04:45:00,Romania
+87,Botshabelo,85,2006-02-15 04:45:00,South Africa
+88,Bradford,102,2006-02-15 04:45:00,United Kingdom
+89,Brasília,15,2006-02-15 04:45:00,Brazil
+90,Bratislava,84,2006-02-15 04:45:00,Slovakia
+91,Brescia,49,2006-02-15 04:45:00,Italy
+92,Brest,34,2006-02-15 04:45:00,France
+93,Brindisi,49,2006-02-15 04:45:00,Italy
+94,Brockton,103,2006-02-15 04:45:00,United States
+95,Bucuresti,78,2006-02-15 04:45:00,Romania
+96,Buenaventura,24,2006-02-15 04:45:00,Colombia
+97,Bydgoszcz,76,2006-02-15 04:45:00,Poland
+98,Cabuyao,75,2006-02-15 04:45:00,Philippines
+99,Callao,74,2006-02-15 04:45:00,Peru
+100,Cam Ranh,105,2006-02-15 04:45:00,Vietnam
+101,Cape Coral,103,2006-02-15 04:45:00,United States
+102,Caracas,104,2006-02-15 04:45:00,Venezuela
+103,Carmen,60,2006-02-15 04:45:00,Mexico
+104,Cavite,75,2006-02-15 04:45:00,Philippines
+105,Cayenne,35,2006-02-15 04:45:00,French Guiana
+106,Celaya,60,2006-02-15 04:45:00,Mexico
+107,Chandrapur,44,2006-02-15 04:45:00,India
+108,Changhwa,92,2006-02-15 04:45:00,Taiwan
+109,Changzhou,23,2006-02-15 04:45:00,China
+110,Chapra,44,2006-02-15 04:45:00,India
+111,Charlotte Amalie,106,2006-02-15 04:45:00,"Virgin Islands, U.S."
+112,Chatsworth,85,2006-02-15 04:45:00,South Africa
+113,Cheju,86,2006-02-15 04:45:00,South Korea
+114,Chiayi,92,2006-02-15 04:45:00,Taiwan
+115,Chisinau,61,2006-02-15 04:45:00,Moldova
+116,Chungho,92,2006-02-15 04:45:00,Taiwan
+117,Cianjur,45,2006-02-15 04:45:00,Indonesia
+118,Ciomas,45,2006-02-15 04:45:00,Indonesia
+119,Ciparay,45,2006-02-15 04:45:00,Indonesia
+120,Citrus Heights,103,2006-02-15 04:45:00,United States
+121,Città del Vaticano,41,2006-02-15 04:45:00,Holy See (Vatican City State)
+122,Ciudad del Este,73,2006-02-15 04:45:00,Paraguay
+123,Clarksville,103,2006-02-15 04:45:00,United States
+124,Coacalco de Berriozábal,60,2006-02-15 04:45:00,Mexico
+125,Coatzacoalcos,60,2006-02-15 04:45:00,Mexico
+126,Compton,103,2006-02-15 04:45:00,United States
+127,Coquimbo,22,2006-02-15 04:45:00,Chile
+128,Córdoba,6,2006-02-15 04:45:00,Argentina
+129,Cuauhtémoc,60,2006-02-15 04:45:00,Mexico
+130,Cuautla,60,2006-02-15 04:45:00,Mexico
+131,Cuernavaca,60,2006-02-15 04:45:00,Mexico
+132,Cumaná,104,2006-02-15 04:45:00,Venezuela
+133,Czestochowa,76,2006-02-15 04:45:00,Poland
+134,Dadu,72,2006-02-15 04:45:00,Pakistan
+135,Dallas,103,2006-02-15 04:45:00,United States
+136,Datong,23,2006-02-15 04:45:00,China
+137,Daugavpils,54,2006-02-15 04:45:00,Latvia
+138,Davao,75,2006-02-15 04:45:00,Philippines
+139,Daxian,23,2006-02-15 04:45:00,China
+140,Dayton,103,2006-02-15 04:45:00,United States
+141,Deba Habe,69,2006-02-15 04:45:00,Nigeria
+142,Denizli,97,2006-02-15 04:45:00,Turkey
+143,Dhaka,12,2006-02-15 04:45:00,Bangladesh
+144,Dhule (Dhulia),44,2006-02-15 04:45:00,India
+145,Dongying,23,2006-02-15 04:45:00,China
+146,Donostia-San Sebastián,87,2006-02-15 04:45:00,Spain
+147,Dos Quebradas,24,2006-02-15 04:45:00,Colombia
+148,Duisburg,38,2006-02-15 04:45:00,Germany
+149,Dundee,102,2006-02-15 04:45:00,United Kingdom
+150,Dzerzinsk,80,2006-02-15 04:45:00,Russian Federation
+151,Ede,67,2006-02-15 04:45:00,Netherlands
+152,Effon-Alaiye,69,2006-02-15 04:45:00,Nigeria
+153,El Alto,14,2006-02-15 04:45:00,Bolivia
+154,El Fuerte,60,2006-02-15 04:45:00,Mexico
+155,El Monte,103,2006-02-15 04:45:00,United States
+156,Elista,80,2006-02-15 04:45:00,Russian Federation
+157,Emeishan,23,2006-02-15 04:45:00,China
+158,Emmen,67,2006-02-15 04:45:00,Netherlands
+159,Enshi,23,2006-02-15 04:45:00,China
+160,Erlangen,38,2006-02-15 04:45:00,Germany
+161,Escobar,6,2006-02-15 04:45:00,Argentina
+162,Esfahan,46,2006-02-15 04:45:00,Iran
+163,Eskisehir,97,2006-02-15 04:45:00,Turkey
+164,Etawah,44,2006-02-15 04:45:00,India
+165,Ezeiza,6,2006-02-15 04:45:00,Argentina
+166,Ezhou,23,2006-02-15 04:45:00,China
+167,Faaa,36,2006-02-15 04:45:00,French Polynesia
+168,Fengshan,92,2006-02-15 04:45:00,Taiwan
+169,Firozabad,44,2006-02-15 04:45:00,India
+170,Florencia,24,2006-02-15 04:45:00,Colombia
+171,Fontana,103,2006-02-15 04:45:00,United States
+172,Fukuyama,50,2006-02-15 04:45:00,Japan
+173,Funafuti,99,2006-02-15 04:45:00,Tuvalu
+174,Fuyu,23,2006-02-15 04:45:00,China
+175,Fuzhou,23,2006-02-15 04:45:00,China
+176,Gandhinagar,44,2006-02-15 04:45:00,India
+177,Garden Grove,103,2006-02-15 04:45:00,United States
+178,Garland,103,2006-02-15 04:45:00,United States
+179,Gatineau,20,2006-02-15 04:45:00,Canada
+180,Gaziantep,97,2006-02-15 04:45:00,Turkey
+181,Gijón,87,2006-02-15 04:45:00,Spain
+182,Gingoog,75,2006-02-15 04:45:00,Philippines
+183,Goiânia,15,2006-02-15 04:45:00,Brazil
+184,Gorontalo,45,2006-02-15 04:45:00,Indonesia
+185,Grand Prairie,103,2006-02-15 04:45:00,United States
+186,Graz,9,2006-02-15 04:45:00,Austria
+187,Greensboro,103,2006-02-15 04:45:00,United States
+188,Guadalajara,60,2006-02-15 04:45:00,Mexico
+189,Guarujá,15,2006-02-15 04:45:00,Brazil
+190,Águas Lindas de Goiás,15,2006-02-15 04:45:00,Brazil
+191,Gulbarga,44,2006-02-15 04:45:00,India
+192,Hagonoy,75,2006-02-15 04:45:00,Philippines
+193,Haining,23,2006-02-15 04:45:00,China
+194,Haiphong,105,2006-02-15 04:45:00,Vietnam
+195,Haldia,44,2006-02-15 04:45:00,India
+196,Halifax,20,2006-02-15 04:45:00,Canada
+197,Halisahar,44,2006-02-15 04:45:00,India
+198,Halle/Saale,38,2006-02-15 04:45:00,Germany
+199,Hami,23,2006-02-15 04:45:00,China
+200,Hamilton,68,2006-02-15 04:45:00,New Zealand
+201,Hanoi,105,2006-02-15 04:45:00,Vietnam
+202,Hidalgo,60,2006-02-15 04:45:00,Mexico
+203,Higashiosaka,50,2006-02-15 04:45:00,Japan
+204,Hino,50,2006-02-15 04:45:00,Japan
+205,Hiroshima,50,2006-02-15 04:45:00,Japan
+206,Hodeida,107,2006-02-15 04:45:00,Yemen
+207,Hohhot,23,2006-02-15 04:45:00,China
+208,Hoshiarpur,44,2006-02-15 04:45:00,India
+209,Hsichuh,92,2006-02-15 04:45:00,Taiwan
+210,Huai´an,23,2006-02-15 04:45:00,China
+211,Hubli-Dharwad,44,2006-02-15 04:45:00,India
+212,Huejutla de Reyes,60,2006-02-15 04:45:00,Mexico
+213,Huixquilucan,60,2006-02-15 04:45:00,Mexico
+214,Huánuco,74,2006-02-15 04:45:00,Peru
+215,Ibirité,15,2006-02-15 04:45:00,Brazil
+216,Idfu,29,2006-02-15 04:45:00,Egypt
+217,Ife,69,2006-02-15 04:45:00,Nigeria
+218,Ikerre,69,2006-02-15 04:45:00,Nigeria
+219,Iligan,75,2006-02-15 04:45:00,Philippines
+220,Ilorin,69,2006-02-15 04:45:00,Nigeria
+221,Imus,75,2006-02-15 04:45:00,Philippines
+222,Inegöl,97,2006-02-15 04:45:00,Turkey
+223,Ipoh,59,2006-02-15 04:45:00,Malaysia
+224,Isesaki,50,2006-02-15 04:45:00,Japan
+225,Ivanovo,80,2006-02-15 04:45:00,Russian Federation
+226,Iwaki,50,2006-02-15 04:45:00,Japan
+227,Iwakuni,50,2006-02-15 04:45:00,Japan
+228,Iwatsuki,50,2006-02-15 04:45:00,Japan
+229,Izumisano,50,2006-02-15 04:45:00,Japan
+230,Jaffna,88,2006-02-15 04:45:00,Sri Lanka
+231,Jaipur,44,2006-02-15 04:45:00,India
+232,Jakarta,45,2006-02-15 04:45:00,Indonesia
+233,Jalib al-Shuyukh,53,2006-02-15 04:45:00,Kuwait
+234,Jamalpur,12,2006-02-15 04:45:00,Bangladesh
+235,Jaroslavl,80,2006-02-15 04:45:00,Russian Federation
+236,Jastrzebie-Zdrój,76,2006-02-15 04:45:00,Poland
+237,Jedda,82,2006-02-15 04:45:00,Saudi Arabia
+238,Jelets,80,2006-02-15 04:45:00,Russian Federation
+239,Jhansi,44,2006-02-15 04:45:00,India
+240,Jinchang,23,2006-02-15 04:45:00,China
+241,Jining,23,2006-02-15 04:45:00,China
+242,Jinzhou,23,2006-02-15 04:45:00,China
+243,Jodhpur,44,2006-02-15 04:45:00,India
+244,Johannesburg,85,2006-02-15 04:45:00,South Africa
+245,Joliet,103,2006-02-15 04:45:00,United States
+246,José Azueta,60,2006-02-15 04:45:00,Mexico
+247,Juazeiro do Norte,15,2006-02-15 04:45:00,Brazil
+248,Juiz de Fora,15,2006-02-15 04:45:00,Brazil
+249,Junan,23,2006-02-15 04:45:00,China
+250,Juárez,60,2006-02-15 04:45:00,Mexico
+251,Kabul,1,2006-02-15 04:45:00,Afghanistan
+252,Kaduna,69,2006-02-15 04:45:00,Nigeria
+253,Kakamigahara,50,2006-02-15 04:45:00,Japan
+254,Kaliningrad,80,2006-02-15 04:45:00,Russian Federation
+255,Kalisz,76,2006-02-15 04:45:00,Poland
+256,Kamakura,50,2006-02-15 04:45:00,Japan
+257,Kamarhati,44,2006-02-15 04:45:00,India
+258,Kamjanets-Podilskyi,100,2006-02-15 04:45:00,Ukraine
+259,Kamyšin,80,2006-02-15 04:45:00,Russian Federation
+260,Kanazawa,50,2006-02-15 04:45:00,Japan
+261,Kanchrapara,44,2006-02-15 04:45:00,India
+262,Kansas City,103,2006-02-15 04:45:00,United States
+263,Karnal,44,2006-02-15 04:45:00,India
+264,Katihar,44,2006-02-15 04:45:00,India
+265,Kermanshah,46,2006-02-15 04:45:00,Iran
+266,Kilis,97,2006-02-15 04:45:00,Turkey
+267,Kimberley,85,2006-02-15 04:45:00,South Africa
+268,Kimchon,86,2006-02-15 04:45:00,South Korea
+269,Kingstown,81,2006-02-15 04:45:00,Saint Vincent and the Grenadines
+270,Kirovo-Tšepetsk,80,2006-02-15 04:45:00,Russian Federation
+271,Kisumu,52,2006-02-15 04:45:00,Kenya
+272,Kitwe,109,2006-02-15 04:45:00,Zambia
+273,Klerksdorp,85,2006-02-15 04:45:00,South Africa
+274,Kolpino,80,2006-02-15 04:45:00,Russian Federation
+275,Konotop,100,2006-02-15 04:45:00,Ukraine
+276,Koriyama,50,2006-02-15 04:45:00,Japan
+277,Korla,23,2006-02-15 04:45:00,China
+278,Korolev,80,2006-02-15 04:45:00,Russian Federation
+279,Kowloon and New Kowloon,42,2006-02-15 04:45:00,Hong Kong
+280,Kragujevac,108,2006-02-15 04:45:00,Yugoslavia
+281,Kütahya,97,2006-02-15 04:45:00,Turkey
+282,Kuching,59,2006-02-15 04:45:00,Malaysia
+283,Kumbakonam,44,2006-02-15 04:45:00,India
+284,Kurashiki,50,2006-02-15 04:45:00,Japan
+285,Kurgan,80,2006-02-15 04:45:00,Russian Federation
+286,Kursk,80,2006-02-15 04:45:00,Russian Federation
+287,Kuwana,50,2006-02-15 04:45:00,Japan
+288,La Paz,60,2006-02-15 04:45:00,Mexico
+289,La Plata,6,2006-02-15 04:45:00,Argentina
+290,La Romana,27,2006-02-15 04:45:00,Dominican Republic
+291,Laiwu,23,2006-02-15 04:45:00,China
+292,Lancaster,103,2006-02-15 04:45:00,United States
+293,Laohekou,23,2006-02-15 04:45:00,China
+294,Lapu-Lapu,75,2006-02-15 04:45:00,Philippines
+295,Laredo,103,2006-02-15 04:45:00,United States
+296,Lausanne,91,2006-02-15 04:45:00,Switzerland
+297,Le Mans,34,2006-02-15 04:45:00,France
+298,Lengshuijiang,23,2006-02-15 04:45:00,China
+299,Leshan,23,2006-02-15 04:45:00,China
+300,Lethbridge,20,2006-02-15 04:45:00,Canada
+301,Lhokseumawe,45,2006-02-15 04:45:00,Indonesia
+302,Liaocheng,23,2006-02-15 04:45:00,China
+303,Liepaja,54,2006-02-15 04:45:00,Latvia
+304,Lilongwe,58,2006-02-15 04:45:00,Malawi
+305,Lima,74,2006-02-15 04:45:00,Peru
+306,Lincoln,103,2006-02-15 04:45:00,United States
+307,Linz,9,2006-02-15 04:45:00,Austria
+308,Lipetsk,80,2006-02-15 04:45:00,Russian Federation
+309,Livorno,49,2006-02-15 04:45:00,Italy
+310,Ljubertsy,80,2006-02-15 04:45:00,Russian Federation
+311,Loja,28,2006-02-15 04:45:00,Ecuador
+312,London,102,2006-02-15 04:45:00,United Kingdom
+313,London,20,2006-02-15 04:45:00,Canada
+314,Lublin,76,2006-02-15 04:45:00,Poland
+315,Lubumbashi,25,2006-02-15 04:45:00,"Congo, The Democratic Republic of the"
+316,Lungtan,92,2006-02-15 04:45:00,Taiwan
+317,Luziânia,15,2006-02-15 04:45:00,Brazil
+318,Madiun,45,2006-02-15 04:45:00,Indonesia
+319,Mahajanga,57,2006-02-15 04:45:00,Madagascar
+320,Maikop,80,2006-02-15 04:45:00,Russian Federation
+321,Malmö,90,2006-02-15 04:45:00,Sweden
+322,Manchester,103,2006-02-15 04:45:00,United States
+323,Mandaluyong,75,2006-02-15 04:45:00,Philippines
+324,Mandi Bahauddin,72,2006-02-15 04:45:00,Pakistan
+325,Mannheim,38,2006-02-15 04:45:00,Germany
+326,Maracaíbo,104,2006-02-15 04:45:00,Venezuela
+327,Mardan,72,2006-02-15 04:45:00,Pakistan
+328,Maringá,15,2006-02-15 04:45:00,Brazil
+329,Masqat,71,2006-02-15 04:45:00,Oman
+330,Matamoros,60,2006-02-15 04:45:00,Mexico
+331,Matsue,50,2006-02-15 04:45:00,Japan
+332,Meixian,23,2006-02-15 04:45:00,China
+333,Memphis,103,2006-02-15 04:45:00,United States
+334,Merlo,6,2006-02-15 04:45:00,Argentina
+335,Mexicali,60,2006-02-15 04:45:00,Mexico
+336,Miraj,44,2006-02-15 04:45:00,India
+337,Mit Ghamr,29,2006-02-15 04:45:00,Egypt
+338,Miyakonojo,50,2006-02-15 04:45:00,Japan
+339,Mogiljov,13,2006-02-15 04:45:00,Belarus
+340,Molodetšno,13,2006-02-15 04:45:00,Belarus
+341,Monclova,60,2006-02-15 04:45:00,Mexico
+342,Monywa,64,2006-02-15 04:45:00,Myanmar
+343,Moscow,80,2006-02-15 04:45:00,Russian Federation
+344,Mosul,47,2006-02-15 04:45:00,Iraq
+345,Mukatševe,100,2006-02-15 04:45:00,Ukraine
+346,Munger (Monghyr),44,2006-02-15 04:45:00,India
+347,Mwanza,93,2006-02-15 04:45:00,Tanzania
+348,Mwene-Ditu,25,2006-02-15 04:45:00,"Congo, The Democratic Republic of the"
+349,Myingyan,64,2006-02-15 04:45:00,Myanmar
+350,Mysore,44,2006-02-15 04:45:00,India
+351,Naçala-Porto,63,2006-02-15 04:45:00,Mozambique
+352,Nabereznyje Tšelny,80,2006-02-15 04:45:00,Russian Federation
+353,Nador,62,2006-02-15 04:45:00,Morocco
+354,Nagaon,44,2006-02-15 04:45:00,India
+355,Nagareyama,50,2006-02-15 04:45:00,Japan
+356,Najafabad,46,2006-02-15 04:45:00,Iran
+357,Naju,86,2006-02-15 04:45:00,South Korea
+358,Nakhon Sawan,94,2006-02-15 04:45:00,Thailand
+359,Nam Dinh,105,2006-02-15 04:45:00,Vietnam
+360,Namibe,4,2006-02-15 04:45:00,Angola
+361,Nantou,92,2006-02-15 04:45:00,Taiwan
+362,Nanyang,23,2006-02-15 04:45:00,China
+363,NDjamna,21,2006-02-15 04:45:00,Chad
+364,Newcastle,85,2006-02-15 04:45:00,South Africa
+365,Nezahualcóyotl,60,2006-02-15 04:45:00,Mexico
+366,Nha Trang,105,2006-02-15 04:45:00,Vietnam
+367,Niznekamsk,80,2006-02-15 04:45:00,Russian Federation
+368,Novi Sad,108,2006-02-15 04:45:00,Yugoslavia
+369,Novotšerkassk,80,2006-02-15 04:45:00,Russian Federation
+370,Nuku´alofa,95,2006-02-15 04:45:00,Tonga
+371,Nuuk,40,2006-02-15 04:45:00,Greenland
+372,Nyeri,52,2006-02-15 04:45:00,Kenya
+373,Ocumare del Tuy,104,2006-02-15 04:45:00,Venezuela
+374,Ogbomosho,69,2006-02-15 04:45:00,Nigeria
+375,Okara,72,2006-02-15 04:45:00,Pakistan
+376,Okayama,50,2006-02-15 04:45:00,Japan
+377,Okinawa,50,2006-02-15 04:45:00,Japan
+378,Olomouc,26,2006-02-15 04:45:00,Czech Republic
+379,Omdurman,89,2006-02-15 04:45:00,Sudan
+380,Omiya,50,2006-02-15 04:45:00,Japan
+381,Ondo,69,2006-02-15 04:45:00,Nigeria
+382,Onomichi,50,2006-02-15 04:45:00,Japan
+383,Oshawa,20,2006-02-15 04:45:00,Canada
+384,Osmaniye,97,2006-02-15 04:45:00,Turkey
+385,Šostka,100,2006-02-15 04:45:00,Ukraine
+386,Otsu,50,2006-02-15 04:45:00,Japan
+387,Oulu,33,2006-02-15 04:45:00,Finland
+388,Ourense (Orense),87,2006-02-15 04:45:00,Spain
+389,Owo,69,2006-02-15 04:45:00,Nigeria
+390,Oyo,69,2006-02-15 04:45:00,Nigeria
+391,Ozamis,75,2006-02-15 04:45:00,Philippines
+392,Paarl,85,2006-02-15 04:45:00,South Africa
+393,Pachuca de Soto,60,2006-02-15 04:45:00,Mexico
+394,Pak Kret,94,2006-02-15 04:45:00,Thailand
+395,Palghat (Palakkad),44,2006-02-15 04:45:00,India
+396,Pangkal Pinang,45,2006-02-15 04:45:00,Indonesia
+397,Papeete,36,2006-02-15 04:45:00,French Polynesia
+398,Parbhani,44,2006-02-15 04:45:00,India
+399,Pathankot,44,2006-02-15 04:45:00,India
+400,Patiala,44,2006-02-15 04:45:00,India
+401,Patras,39,2006-02-15 04:45:00,Greece
+402,Pavlodar,51,2006-02-15 04:45:00,Kazakstan
+403,Pemalang,45,2006-02-15 04:45:00,Indonesia
+404,Peoria,103,2006-02-15 04:45:00,United States
+405,Pereira,24,2006-02-15 04:45:00,Colombia
+406,Phnom Penh,18,2006-02-15 04:45:00,Cambodia
+407,Pingxiang,23,2006-02-15 04:45:00,China
+408,Pjatigorsk,80,2006-02-15 04:45:00,Russian Federation
+409,Plock,76,2006-02-15 04:45:00,Poland
+410,Poá,15,2006-02-15 04:45:00,Brazil
+411,Ponce,77,2006-02-15 04:45:00,Puerto Rico
+412,Pontianak,45,2006-02-15 04:45:00,Indonesia
+413,Poços de Caldas,15,2006-02-15 04:45:00,Brazil
+414,Portoviejo,28,2006-02-15 04:45:00,Ecuador
+415,Probolinggo,45,2006-02-15 04:45:00,Indonesia
+416,Pudukkottai,44,2006-02-15 04:45:00,India
+417,Pune,44,2006-02-15 04:45:00,India
+418,Purnea (Purnia),44,2006-02-15 04:45:00,India
+419,Purwakarta,45,2006-02-15 04:45:00,Indonesia
+420,Pyongyang,70,2006-02-15 04:45:00,North Korea
+421,Qalyub,29,2006-02-15 04:45:00,Egypt
+422,Qinhuangdao,23,2006-02-15 04:45:00,China
+423,Qomsheh,46,2006-02-15 04:45:00,Iran
+424,Quilmes,6,2006-02-15 04:45:00,Argentina
+425,Rae Bareli,44,2006-02-15 04:45:00,India
+426,Rajkot,44,2006-02-15 04:45:00,India
+427,Rampur,44,2006-02-15 04:45:00,India
+428,Rancagua,22,2006-02-15 04:45:00,Chile
+429,Ranchi,44,2006-02-15 04:45:00,India
+430,Richmond Hill,20,2006-02-15 04:45:00,Canada
+431,Rio Claro,15,2006-02-15 04:45:00,Brazil
+432,Rizhao,23,2006-02-15 04:45:00,China
+433,Roanoke,103,2006-02-15 04:45:00,United States
+434,Ríobamba,28,2006-02-15 04:45:00,Ecuador
+435,Rockford,103,2006-02-15 04:45:00,United States
+436,Ruse,17,2006-02-15 04:45:00,Bulgaria
+437,Rustenburg,85,2006-02-15 04:45:00,South Africa
+438,´s-Hertogenbosch,67,2006-02-15 04:45:00,Netherlands
+439,Saarbrücken,38,2006-02-15 04:45:00,Germany
+440,Sagamihara,50,2006-02-15 04:45:00,Japan
+441,Saint Louis,103,2006-02-15 04:45:00,United States
+442,Saint-Denis,79,2006-02-15 04:45:00,Réunion
+443,Salé,62,2006-02-15 04:45:00,Morocco
+444,Salala,71,2006-02-15 04:45:00,Oman
+445,Salamanca,60,2006-02-15 04:45:00,Mexico
+446,Salinas,103,2006-02-15 04:45:00,United States
+447,Salzburg,9,2006-02-15 04:45:00,Austria
+448,Sambhal,44,2006-02-15 04:45:00,India
+449,San Bernardino,103,2006-02-15 04:45:00,United States
+450,San Felipe de Puerto Plata,27,2006-02-15 04:45:00,Dominican Republic
+451,San Felipe del Progreso,60,2006-02-15 04:45:00,Mexico
+452,San Juan Bautista Tuxtepec,60,2006-02-15 04:45:00,Mexico
+453,San Lorenzo,73,2006-02-15 04:45:00,Paraguay
+454,San Miguel de Tucumán,6,2006-02-15 04:45:00,Argentina
+455,Sanaa,107,2006-02-15 04:45:00,Yemen
+456,Santa Brbara dOeste,15,2006-02-15 04:45:00,Brazil
+457,Santa Fé,6,2006-02-15 04:45:00,Argentina
+458,Santa Rosa,75,2006-02-15 04:45:00,Philippines
+459,Santiago de Compostela,87,2006-02-15 04:45:00,Spain
+460,Santiago de los Caballeros,27,2006-02-15 04:45:00,Dominican Republic
+461,Santo André,15,2006-02-15 04:45:00,Brazil
+462,Sanya,23,2006-02-15 04:45:00,China
+463,Sasebo,50,2006-02-15 04:45:00,Japan
+464,Satna,44,2006-02-15 04:45:00,India
+465,Sawhaj,29,2006-02-15 04:45:00,Egypt
+466,Serpuhov,80,2006-02-15 04:45:00,Russian Federation
+467,Shahr-e Kord,46,2006-02-15 04:45:00,Iran
+468,Shanwei,23,2006-02-15 04:45:00,China
+469,Shaoguan,23,2006-02-15 04:45:00,China
+470,Sharja,101,2006-02-15 04:45:00,United Arab Emirates
+471,Shenzhen,23,2006-02-15 04:45:00,China
+472,Shikarpur,72,2006-02-15 04:45:00,Pakistan
+473,Shimoga,44,2006-02-15 04:45:00,India
+474,Shimonoseki,50,2006-02-15 04:45:00,Japan
+475,Shivapuri,44,2006-02-15 04:45:00,India
+476,Shubra al-Khayma,29,2006-02-15 04:45:00,Egypt
+477,Siegen,38,2006-02-15 04:45:00,Germany
+478,Siliguri (Shiliguri),44,2006-02-15 04:45:00,India
+479,Simferopol,100,2006-02-15 04:45:00,Ukraine
+480,Sincelejo,24,2006-02-15 04:45:00,Colombia
+481,Sirjan,46,2006-02-15 04:45:00,Iran
+482,Sivas,97,2006-02-15 04:45:00,Turkey
+483,Skikda,2,2006-02-15 04:45:00,Algeria
+484,Smolensk,80,2006-02-15 04:45:00,Russian Federation
+485,São Bernardo do Campo,15,2006-02-15 04:45:00,Brazil
+486,São Leopoldo,15,2006-02-15 04:45:00,Brazil
+487,Sogamoso,24,2006-02-15 04:45:00,Colombia
+488,Sokoto,69,2006-02-15 04:45:00,Nigeria
+489,Songkhla,94,2006-02-15 04:45:00,Thailand
+490,Sorocaba,15,2006-02-15 04:45:00,Brazil
+491,Soshanguve,85,2006-02-15 04:45:00,South Africa
+492,Sousse,96,2006-02-15 04:45:00,Tunisia
+493,South Hill,5,2006-02-15 04:45:00,Anguilla
+494,Southampton,102,2006-02-15 04:45:00,United Kingdom
+495,Southend-on-Sea,102,2006-02-15 04:45:00,United Kingdom
+496,Southport,102,2006-02-15 04:45:00,United Kingdom
+497,Springs,85,2006-02-15 04:45:00,South Africa
+498,Stara Zagora,17,2006-02-15 04:45:00,Bulgaria
+499,Sterling Heights,103,2006-02-15 04:45:00,United States
+500,Stockport,102,2006-02-15 04:45:00,United Kingdom
+501,Sucre,14,2006-02-15 04:45:00,Bolivia
+502,Suihua,23,2006-02-15 04:45:00,China
+503,Sullana,74,2006-02-15 04:45:00,Peru
+504,Sultanbeyli,97,2006-02-15 04:45:00,Turkey
+505,Sumqayit,10,2006-02-15 04:45:00,Azerbaijan
+506,Sumy,100,2006-02-15 04:45:00,Ukraine
+507,Sungai Petani,59,2006-02-15 04:45:00,Malaysia
+508,Sunnyvale,103,2006-02-15 04:45:00,United States
+509,Surakarta,45,2006-02-15 04:45:00,Indonesia
+510,Syktyvkar,80,2006-02-15 04:45:00,Russian Federation
+511,Syrakusa,49,2006-02-15 04:45:00,Italy
+512,Székesfehérvár,43,2006-02-15 04:45:00,Hungary
+513,Tabora,93,2006-02-15 04:45:00,Tanzania
+514,Tabriz,46,2006-02-15 04:45:00,Iran
+515,Tabuk,82,2006-02-15 04:45:00,Saudi Arabia
+516,Tafuna,3,2006-02-15 04:45:00,American Samoa
+517,Taguig,75,2006-02-15 04:45:00,Philippines
+518,Taizz,107,2006-02-15 04:45:00,Yemen
+519,Talavera,75,2006-02-15 04:45:00,Philippines
+520,Tallahassee,103,2006-02-15 04:45:00,United States
+521,Tama,50,2006-02-15 04:45:00,Japan
+522,Tambaram,44,2006-02-15 04:45:00,India
+523,Tanauan,75,2006-02-15 04:45:00,Philippines
+524,Tandil,6,2006-02-15 04:45:00,Argentina
+525,Tangail,12,2006-02-15 04:45:00,Bangladesh
+526,Tanshui,92,2006-02-15 04:45:00,Taiwan
+527,Tanza,75,2006-02-15 04:45:00,Philippines
+528,Tarlac,75,2006-02-15 04:45:00,Philippines
+529,Tarsus,97,2006-02-15 04:45:00,Turkey
+530,Tartu,30,2006-02-15 04:45:00,Estonia
+531,Tšeboksary,80,2006-02-15 04:45:00,Russian Federation
+532,Tegal,45,2006-02-15 04:45:00,Indonesia
+533,Tel Aviv-Jaffa,48,2006-02-15 04:45:00,Israel
+534,Tete,63,2006-02-15 04:45:00,Mozambique
+535,Tianjin,23,2006-02-15 04:45:00,China
+536,Tiefa,23,2006-02-15 04:45:00,China
+537,Tieli,23,2006-02-15 04:45:00,China
+538,Tokat,97,2006-02-15 04:45:00,Turkey
+539,Tonghae,86,2006-02-15 04:45:00,South Korea
+540,Tongliao,23,2006-02-15 04:45:00,China
+541,Torreón,60,2006-02-15 04:45:00,Mexico
+542,Touliu,92,2006-02-15 04:45:00,Taiwan
+543,Toulon,34,2006-02-15 04:45:00,France
+544,Toulouse,34,2006-02-15 04:45:00,France
+545,Tórshavn,32,2006-02-15 04:45:00,Faroe Islands
+546,Tsaotun,92,2006-02-15 04:45:00,Taiwan
+547,Tsuyama,50,2006-02-15 04:45:00,Japan
+548,Tuguegarao,75,2006-02-15 04:45:00,Philippines
+549,Tychy,76,2006-02-15 04:45:00,Poland
+550,Udaipur,44,2006-02-15 04:45:00,India
+551,Udine,49,2006-02-15 04:45:00,Italy
+552,Ueda,50,2006-02-15 04:45:00,Japan
+553,Uijongbu,86,2006-02-15 04:45:00,South Korea
+554,Uluberia,44,2006-02-15 04:45:00,India
+555,Urawa,50,2006-02-15 04:45:00,Japan
+556,Uruapan,60,2006-02-15 04:45:00,Mexico
+557,Usak,97,2006-02-15 04:45:00,Turkey
+558,Usolje-Sibirskoje,80,2006-02-15 04:45:00,Russian Federation
+559,Uttarpara-Kotrung,44,2006-02-15 04:45:00,India
+560,Vaduz,55,2006-02-15 04:45:00,Liechtenstein
+561,Valencia,104,2006-02-15 04:45:00,Venezuela
+562,Valle de la Pascua,104,2006-02-15 04:45:00,Venezuela
+563,Valle de Santiago,60,2006-02-15 04:45:00,Mexico
+564,Valparai,44,2006-02-15 04:45:00,India
+565,Vancouver,20,2006-02-15 04:45:00,Canada
+566,Varanasi (Benares),44,2006-02-15 04:45:00,India
+567,Vicente López,6,2006-02-15 04:45:00,Argentina
+568,Vijayawada,44,2006-02-15 04:45:00,India
+569,Vila Velha,15,2006-02-15 04:45:00,Brazil
+570,Vilnius,56,2006-02-15 04:45:00,Lithuania
+571,Vinh,105,2006-02-15 04:45:00,Vietnam
+572,Vitória de Santo Antão,15,2006-02-15 04:45:00,Brazil
+573,Warren,103,2006-02-15 04:45:00,United States
+574,Weifang,23,2006-02-15 04:45:00,China
+575,Witten,38,2006-02-15 04:45:00,Germany
+576,Woodridge,8,2006-02-15 04:45:00,Australia
+577,Wroclaw,76,2006-02-15 04:45:00,Poland
+578,Xi´angfan,23,2006-02-15 04:45:00,China
+579,Xi´angtan,23,2006-02-15 04:45:00,China
+580,Xintai,23,2006-02-15 04:45:00,China
+581,Xinxiang,23,2006-02-15 04:45:00,China
+582,Yamuna Nagar,44,2006-02-15 04:45:00,India
+583,Yangor,65,2006-02-15 04:45:00,Nauru
+584,Yantai,23,2006-02-15 04:45:00,China
+585,Yaoundé,19,2006-02-15 04:45:00,Cameroon
+586,Yerevan,7,2006-02-15 04:45:00,Armenia
+587,Yinchuan,23,2006-02-15 04:45:00,China
+588,Yingkou,23,2006-02-15 04:45:00,China
+589,York,102,2006-02-15 04:45:00,United Kingdom
+590,Yuncheng,23,2006-02-15 04:45:00,China
+591,Yuzhou,23,2006-02-15 04:45:00,China
+592,Zalantun,23,2006-02-15 04:45:00,China
+593,Zanzibar,93,2006-02-15 04:45:00,Tanzania
+594,Zaoyang,23,2006-02-15 04:45:00,China
+595,Zapopan,60,2006-02-15 04:45:00,Mexico
+596,Zaria,69,2006-02-15 04:45:00,Nigeria
+597,Zeleznogorsk,80,2006-02-15 04:45:00,Russian Federation
+598,Zhezqazghan,51,2006-02-15 04:45:00,Kazakstan
+599,Zhoushan,23,2006-02-15 04:45:00,China
+600,Ziguinchor,83,2006-02-15 04:45:00,Senegal
