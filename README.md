@@ -84,6 +84,16 @@ The project successfully transformed raw rental data into interactive business i
 
 ---
 
-## Author
+# Contact
 
 **Pravallika Manepalli**
+
+**Email**  
+pravallika.analytics@gmail.com
+
+**LinkedIn**  
+https://www.linkedin.com/in/pravallikamanepalli/
+
+**GitHub**  
+https://github.com/Mslp18
+
